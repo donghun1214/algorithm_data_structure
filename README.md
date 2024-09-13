@@ -1,9 +1,9 @@
 # 핵심 자료구조와 알고리즘 구현
-**1. 2차원 배열을 동적할당으로 구현하기**
+**1. 2차원 배열을 동적할당으로 구현하기(dynamic_memory_allocation.c)**
 
 > Write a simple C code for 2 dimensional array with dynamic memory allocation
 
-**2. Merge sort 구현하기**
+**2. Merge sort 구현하기(merge_sort.c)**
 
 > Merge sort 는 O(nlogn) 시간복잡도를 가지고 있는 유명한 정렬 알고리즘이다.
 
